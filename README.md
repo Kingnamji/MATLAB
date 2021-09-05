@@ -12,6 +12,11 @@ Matlab에 대해 공부한 내용입니다.
   - struct
 
 ### 2. 함수 Function
+  - length
+  - size
+  - plot
+  - comparison
+  - find
 
 ## 딥러닝
   - Pretrained Model
